@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/trunk/src/Core/System/SystemConfig/Schema/config.xsd">
+  <card>
+    <input-field>
+      <name>bccEmail</name>
+      <input-field name="bccEmail" label="BCC E-Mail-Adresse"/>
+      <label lang="de-DE">BCC E-Mail-Adresse</label>
+      <label lang="en-GB">BCC email adress</label>
+    </input-field>
+  </card>
+</config>
